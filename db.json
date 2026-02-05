@@ -1,12 +1,20 @@
 {
-"tasks":[
-{
-"id":"1",
-"title":"Welcome Task",
-"description":"this is your task served from json-server",
-"dueData":"2025-09-31",
-"completed":false,
-"priority":"Medium"
-}
-]
+  "tasks": [
+    {
+      "id": "ff45",
+      "title": "akshi",
+      "description": "hello..........!",
+      "dueDate": "2026-04-11",
+      "priority": "High",
+      "completed": false
+    },
+    {
+      "id": "8be8",
+      "title": "project",
+      "description": "my project is very nice.",
+      "dueDate": "2026-02-16",
+      "priority": "High",
+      "completed": false
+    }
+  ]
 }
